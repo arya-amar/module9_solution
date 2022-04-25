@@ -44,7 +44,7 @@ angular.module("MenuApp")
     })
     .state('homeState', {
       url: "/home",
-      templateUrl: "/home.html"
+      templateUrl: "home.html"
     })
     .state('catState', {
       url: "/categories",
